@@ -17,8 +17,6 @@ Even with these struggles, each mistake helped me learn more about HTML and CSS.
 
  #  My Learning Journey – Frontend Portfolio
 
-This website project was more than just code – it was a process of discovery, trial, and problem-solving. Here are some key things I learned and how I overcame challenges:
-
 ## What I Learned
 - **HTML Structure** → How to organize content into sections (header, hero, skills, achievements, footer).  
 - **CSS Styling** → Using flexbox, margins, padding, and text alignment to design a clean layout.  
